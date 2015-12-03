@@ -1,14 +1,15 @@
-title:            Balzac
-tagline:          A beautiful theme.
-description:      Describe your website.
+title:            Harry's Website
+tagline:          My IT blog
+description:      This is my website. I made it in IT
 canonical: http://jekyll.gtat.me
-
+post_assets: Images
+general_assets: Images
 # Owner/author information
 owner:
   name:           Cole Townsend
   avatar:         avatar.png
   bio:            "Aesthete & Athlete"
-  email:          cole@coletownsend.com
+  email:          harry.puddephat@challoners.org
   twitter:        twnsndco
   github:         coletownsend
   instagram:      ctrunsthis
