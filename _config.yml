@@ -1,13 +1,13 @@
 title:            Harry's Website
 tagline:          My IT blog
-description:      This is my website. I made it in IT
+description:      This is my IT learning blog.
 canonical: http://jekyll.gtat.me
 post_assets: Images
 general_assets: Images
 # Owner/author information
 owner:
-  name:           Cole Townsend
-  avatar:         avatar.png
+  name:           Harry P
+  avatar:         http://icons.iconarchive.com/icons/hopstarter/face-avatars/256/Male-Face-H5-icon.png
   bio:            "Aesthete & Athlete"
   email:          harry.puddephat@challoners.org
   twitter:        twnsndco
