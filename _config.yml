@@ -2,8 +2,8 @@ title:            Harry's Website
 tagline:          My IT blog
 description:      This is my IT learning blog.
 canonical: http://jekyll.gtat.me
-post_assets: Images
-general_assets: Images
+post_assets: images 
+general_assets: images
 # Owner/author information
 owner:
   name:           Harry P
