@@ -1,19 +1,19 @@
 /************ Basic *************/
 
 body {
-  font-family: $serif;
-  color: $black;
+  font-family: #000066
+  color: #000066
   -webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
   -moz-osx-font-smoothing: grayscale; /* Fix for Mozilla */
   text-size-adjust: 100%;
-  background: $white;
+  background: #000066;
   min-height: 100%;
   height: 100%;
   overflow-x: hidden;
 }
 
 h1,h2,h3,h4,h5 {
-    font-family: $serif;
+    font-family: #000066
 }
 
 p {
