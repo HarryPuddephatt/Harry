@@ -656,7 +656,7 @@ footer {
 /* Tablet
    ========================================================================== */
 
-   @media only screen and (max-width: $breakpoint-2-max-width) {
+   media only screen and (max-width: $breakpoint-2-max-width) {
     
 // Type Fixes
 
@@ -695,7 +695,7 @@ footer {
 /* Mobile
    ========================================================================== */
 
-   @media only screen and (max-width: 500px) {
+    media only screen and (max-width: 500px) {
     footer {
     
     .social {
@@ -721,7 +721,7 @@ footer {
     }
 }
 
-   @media only screen and (max-width : 680px) {
+   media only screen and (max-width : 680px) {
  
  /* All Posts */
       
@@ -832,7 +832,7 @@ footer {
 }
 
 
-@media only screen and (max-width: $breakpoint-1-max-width) {
+ media only screen and (max-width: $breakpoint-1-max-width) {
 
 .post {
     @include column(9);
