@@ -497,7 +497,7 @@ header.site-header nav {
         margin-bottom: $lh;
         list-style: disc;
         list-style-type: disc;
-        lh h1, lh h2, lh h3, lh h4, lh h5 {
+         h1,  h2,  h3,  h4,  h5 {
             @include underline(2px, solid, $grey-light);
         }
         li {
@@ -514,7 +514,7 @@ header.site-header nav {
     ol {
         display: block;
         margin-bottom: $lh;
-        lh h1, lh h2, lh h3, lh h4, lh h5 {
+         h1,  h2, h3, h4, h5 {
             @include underline(2px, solid, $grey-light);
         }
         li {
@@ -656,7 +656,7 @@ footer {
 /* Tablet
    ========================================================================== */
 
-@media only screen and (max-width: $breakpoint-2-max-width) {
+   @media only screen and (max-width: $breakpoint-2-max-width) {
     
 // Type Fixes
 
@@ -695,7 +695,7 @@ footer {
 /* Mobile
    ========================================================================== */
 
-@media only screen and (max-width: 500px) {
+   @media only screen and (max-width: 500px) {
     footer {
     
     .social {
@@ -721,7 +721,7 @@ footer {
     }
 }
 
-@media only screen and (max-width : 680px) {
+   @media only screen and (max-width : 680px) {
  
  /* All Posts */
       
